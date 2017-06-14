@@ -1,3 +1,3 @@
 ### Estudo de React + Firebase
 
-    React + Fireabase = <3
+    React + Fireabase = :heart_eyes:
